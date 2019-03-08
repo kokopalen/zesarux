@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 config.log
-Makefile
+#Makefile
 
 .idea/
 .vscode/
